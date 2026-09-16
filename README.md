@@ -18,3 +18,8 @@ ENDPOINT=https://graph.microsoft.com/v1.0/me
 
 
 python -m flask run --debug --host=localhost --port=3000                                                              
+
+
+
+https://lightning-gwa8eqgagmbvbmdc.switzerlandnorth-01.azurewebsites.net/
+
